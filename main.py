@@ -1,3 +1,5 @@
+# run "export REPLICATE_API_TOKEN=<API-TOKEN>"
+# then run "streamlit run main.py" in the Shell to start
 import replicate
 import streamlit as st
 from PIL import Image
